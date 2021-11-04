@@ -2,4 +2,5 @@
 
 Olá! Bem vindo ao meu livro de receitas! :wave:
 
-- Dobradinha de Frangó;
+- Dobradinha de Frango;
+- Cuzcuz de Tapioca;
