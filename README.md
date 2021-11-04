@@ -3,4 +3,9 @@
 Olá! Bem vindo ao meu livro de receitas! :wave:
 
 - Dobradinha de Frango;
-- Cuzcuz de Tapioca;
+
+- Cuscuz de Tapioca;
+
+- Bolo de Mandioca;
+
+  
